@@ -20,7 +20,7 @@ I'm a student at Belarusian State University and the Yandex School of Data Analy
 
 <hr/>
 
-![Snake animation](temablag)
+![Snake animation](Temablag)
 
 
 <h3>GitHub Stats:</h3>
