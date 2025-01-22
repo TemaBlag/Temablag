@@ -12,15 +12,9 @@ I'm a student at Belarusian State University and the Yandex School of Data Analy
 
 ---
 
-<div>
-  <h2>My Contributions </h2>
-  <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
-</div>
+## My Contributions
 
-<hr/>
-
-![Snake animation](Temablag)
+![Snake animation](https://github.com/Temablag/Temablag/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3>GitHub Stats:</h3>
