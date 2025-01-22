@@ -1,3 +1,26 @@
+# Hi, I am Blagodarniy Artyom!
+
+**`ML engineer & Data Science`**
+
+I'm a student at Belarusian State University and the Yandex School of Data Analysis, passionate about Machine Learning and Data Science. I specialize in developing efficient solutions to real-world problems through ML technologies. On my GitHub, you'll find a variety of projects connected with ML, BSU labs and articles.
+
+---
+
+### 🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,postgres,cpp,docker,anaconda,cpp,java,html,css,django,git,github,latex)](https://skillicons.dev)
+
+---
+
+<div>
+  <h2>My Contributions </h2>
+  <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+</div>
+
+<hr/>
+
+
 <h3>GitHub Stats:</h3>
 
 <div align="center" style="diplay: flex;">
@@ -9,3 +32,6 @@
 <div>
   <img src="https://profile-counter.glitch.me/Temablag/count.svg">
 </div>
+
+py,pytorch,tensorflow,postgres,cpp,docker,anaconda,cpp,java,html,css,django,git,github,latex
+
