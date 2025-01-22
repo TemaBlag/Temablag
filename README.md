@@ -14,7 +14,7 @@ I'm a student at Belarusian State University and the Yandex School of Data Analy
 
 ## My Contributions
 
-![snake gif](https://github.com/Temablag/Temablag/blob/output/ocean.gif)
+![snake gif](https://github.com/Temablag/Temablag/blob/output/github-snake-dark.svg)
 
 ---
 
