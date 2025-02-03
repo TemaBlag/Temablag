@@ -5,7 +5,7 @@
 I'm a student at Belarusian State University and the Yandex School of Data Analysis, passionate about Machine Learning and Data Science. I specialize in developing efficient solutions to real-world problems through ML technologies. On my GitHub, you'll find a variety of projects connected with ML, BSU labs and articles.
 
 <div> 
-  <a href="artyomblagodarniywork@gmail.com">
+  <a href="mailto:artyomblagodarniywork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/artyom-blagodarniy" target="_blank">
