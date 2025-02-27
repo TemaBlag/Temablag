@@ -1,6 +1,6 @@
 # Hi, I am Blagodarniy Artyom!
 
-**`ML engineer & Data Science`**
+**`ML engineer & Data Scientist`**
 
 I'm a student at Belarusian State University and the Yandex School of Data Analysis, passionate about Machine Learning and Data Science. I specialize in developing efficient solutions to real-world problems through ML technologies. On my GitHub, you'll find a variety of projects connected with ML, BSU labs and articles.
 
